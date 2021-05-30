@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola 👋
+* Programador JavaScript Front-End
+* Diseñador Gráfico UBA
+## About me
+_Siempre me dediqué al diseño por su gran potencial creativo. Mi interés por la tecnología y sus aplicaciones me permitió involucrarme desde la gráfica en desarrollos digitales. Hoy la creatividad y el diseño evolucionan juntos dentro del área de desarrollo de software y aplicaciones, por eso desde hace dos años me estoy especializando en el aprendizaje de los lenguajes de programación._
+---
+# Skills
+* 
+
 
 <!--
 **clod2008/clod2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
