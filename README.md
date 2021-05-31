@@ -6,8 +6,8 @@
 _Siempre me dediqué al diseño por su gran potencial creativo. Mi interés por la tecnología y sus aplicaciones me permitió involucrarme desde la gráfica en desarrollos digitales. Hoy la creatividad y el diseño evolucionan juntos dentro del área de desarrollo de software y aplicaciones, por eso desde hace dos años me estoy especializando en el aprendizaje de los lenguajes de programación._
 
 ## Algunos de mis desarrollos web
-* [Gabser S.A.](http://www.gabser.com.ar/)
-* [Xr Capital](https://apsis.com.ar/rx-capital) 
+* [Gabser S.A.](http://www.gabser.com.ar/){:target="_blank"}
+* [Xr Capital](https://thexrc.com/) 
 
 
 <!--
