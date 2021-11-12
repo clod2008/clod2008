@@ -7,6 +7,7 @@
     <img height="25px" src="./webpack-svgrepo-com.svg">
 </p>
 * Diseñador Gráfico UBA
+
 ### About me
 
 _Siempre me dediqué al diseño por su gran potencial creativo. Mi interés por la tecnología y sus aplicaciones me permitió involucrarme desde la gráfica en desarrollos digitales. Hoy la creatividad y el diseño evolucionan juntos dentro del área de desarrollo de software y aplicaciones, por eso desde hace dos años me estoy especializando en el aprendizaje de los lenguajes de programación._
