@@ -1,5 +1,6 @@
 ### Hola 👋
 * Programador JavaScript Front-End
+* Reacct - Redux - Webpack
 * Diseñador Gráfico UBA
 ### About me
 
