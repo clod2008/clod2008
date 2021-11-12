@@ -1,6 +1,11 @@
 ### Hola 👋
 * Programador JavaScript Front-End
 * Reacct - Redux - Webpack
+<p align="center">
+    <img height="30px" src="./logo.svg">
+    <img height="25px" src="./redux-logo-svgrepo-com.svg"> 
+    <img height="25px" src="./webpack-svgrepo-com.svg">
+</p>
 * Diseñador Gráfico UBA
 ### About me
 
@@ -10,8 +15,10 @@ _Siempre me dediqué al diseño por su gran potencial creativo. Mi interés por 
 * [Gabser S.A.](http://www.gabser.com.ar/)
 * [Xr Capital](https://thexrc.com/)
 * [Maidana Propiedades](https://maidanapropiedades.com.ar/)
+* [Bio Neuro Nut](https://neuronut.com.ar/)
 * [Arguello Magud](http://www.arguellomagud.com.ar/)
 * [Cardiopak Argentina S.A.](https://cardiopackargentina.com.ar/)
+
 
 <!--
 **clod2008/clod2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
