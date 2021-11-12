@@ -1,7 +1,7 @@
 ### Hola 👋
 * Programador JavaScript Front-End
 * Reacct - Redux - Webpack
-<p align="center">
+<p align="left">
     <img height="30px" src="./logo.svg">
     <img height="25px" src="./redux-logo-svgrepo-com.svg"> 
     <img height="25px" src="./webpack-svgrepo-com.svg">
