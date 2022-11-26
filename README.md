@@ -18,7 +18,6 @@ _Siempre me dediqué al diseño por su gran potencial creativo. Mi interés por 
 * [Maidana Propiedades](https://maidanapropiedades.com.ar/)
 * [Bio Neuro Nut](https://neuronut.com.ar/)
 * [Arguello Magud](http://www.arguellomagud.com.ar/)
-* [Cardiopak Argentina S.A.](https://cardiopackargentina.com.ar/)
 
 
 <!--
