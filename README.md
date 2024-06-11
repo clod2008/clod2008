@@ -58,7 +58,7 @@ _Siempre me dediqué al diseño por su gran potencial creativo. Mi interés por 
 
 * <a href="https://elmuseoviajero.com.ar" target="_blank">El Museo Viajero</a>
 * <a href="http://www.gabser.com.ar/" target="_blank">Gabser S.A.</a>
-* <a href="https://thexrc.com/" target="_blank">Xr Capital</a>
+* <a href="https://ditp.com.ar/home" target="_blank">DITP (International Trade Promotion Department, Ministry of Commerce, Thailand) </a>
 * <a href="https://maidanapropiedades.com.ar/" target="_blank">Maidana Propiedades</a>
 * <a href="https://clod2008.github.io/NeuroNut/index.html/" target="_blank">Bio Neuro Nut</a>
 * <a href="http://www.arguellomagud.com.ar/" target="_blank">Arguello Magud</a>
