@@ -1,11 +1,6 @@
 ### Hola 👋
 * Programador JavaScript Front-End
-* Reacct - Redux - Webpack
-<p align="left">
-    <img height="30px" src="./logo.svg">
-    <img height="25px" src="./redux-logo-svgrepo-com.svg"> 
-    <img height="25px" src="./webpack-svgrepo-com.svg">
-</p>
+* Reacct - Redux 
 <p align="left" dir="auto">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" style="max-width: 100%;">
