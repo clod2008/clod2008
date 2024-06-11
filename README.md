@@ -55,7 +55,6 @@
 _Siempre me dediqué al diseño por su gran potencial creativo. Mi interés por la tecnología y sus aplicaciones me permitió involucrarme desde la gráfica en desarrollos digitales. Hoy la creatividad y el diseño evolucionan juntos dentro del área de desarrollo de software y aplicaciones, por eso desde hace dos años me estoy especializando en el aprendizaje de los lenguajes de programación._
 
 ## Algunos de mis desarrollos web
-## Algunos de mis desarrollos web
 
 * <a href="https://elmuseoviajero.com.ar" target="_blank">El Museo Viajero</a>
 * <a href="http://www.gabser.com.ar/" target="_blank">Gabser S.A.</a>
