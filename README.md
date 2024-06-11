@@ -55,12 +55,12 @@
 _Siempre me dediqué al diseño por su gran potencial creativo. Mi interés por la tecnología y sus aplicaciones me permitió involucrarme desde la gráfica en desarrollos digitales. Hoy la creatividad y el diseño evolucionan juntos dentro del área de desarrollo de software y aplicaciones, por eso desde hace dos años me estoy especializando en el aprendizaje de los lenguajes de programación._
 
 ## Algunos de mis desarrollos web
-* [El Museo Viajero](https://elmuseoviajero.com.ar)
-* [Gabser S.A.](http://www.gabser.com.ar/)
-* [Xr Capital](https://thexrc.com/)
-* [Maidana Propiedades](https://maidanapropiedades.com.ar/)
-* [Bio Neuro Nut](https://neuronut.com.ar/)
-* [Arguello Magud](http://www.arguellomagud.com.ar/)
+* [El Museo Viajero](https://elmuseoviajero.com.ar){:target="_blank"}
+* [Gabser S.A.](http://www.gabser.com.ar/){:target="_blank"}
+* [Xr Capital](https://thexrc.com/){:target="_blank"}
+* [Maidana Propiedades](https://maidanapropiedades.com.ar/){:target="_blank"}
+* [Bio Neuro Nut](https://neuronut.com.ar/){:target="_blank"}
+* [Arguello Magud](http://www.arguellomagud.com.ar/){:target="_blank"}
 
 
 <!--
